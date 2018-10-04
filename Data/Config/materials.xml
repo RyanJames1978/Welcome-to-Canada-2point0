@@ -1123,7 +1123,7 @@
 	<property name="stepsound" value="metal" />
 	<property name="stability_glue" value="320" />
 	<property name="Mass" type="int" value="20" />
-	<property name="MaxDamage" value="300" />
+	<property name="MaxDamage" value="400" />
 	<property name="Experience" value="3.0"/>
 </material>
 <material id="woodDoor">
